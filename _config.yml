@@ -2,3 +2,4 @@ lsi: false
 safe: true
 source: /
 incremental: false
+theme: jekyll-theme-minimal
