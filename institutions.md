@@ -1,1 +1,4 @@
-# Institutions
+---
+title: institutions
+slug: /institutions/
+---
