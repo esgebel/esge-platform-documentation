@@ -5,3 +5,4 @@ Documentation for Institution Admins, Mentors and Mentees.
 - [overview](/)
 - [institutions](/institutions)
 - [mentors](/mentors)
+- [mentees](/mentees)
