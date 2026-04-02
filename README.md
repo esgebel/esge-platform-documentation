@@ -2,4 +2,4 @@
 
 Documentation for Institution Admins, Mentors and Mentees.
 
-{% include "_includes/menu.md" %}
+{% include _includes/menu.md %}
