@@ -2,6 +2,6 @@
 
 Documentation for Institution Admins, Mentors and Mentees.
 
-- [overview]("/")
-- [institutions]("/institutions")
-- [mentors]("/mentors")
+- [overview](/)
+- [institutions](/institutions)
+- [mentors](/mentors)
