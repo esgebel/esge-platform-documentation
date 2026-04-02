@@ -2,4 +2,6 @@
 
 Documentation for Institution Admins, Mentors and Mentees.
 
-{% include _includes/menu.md %}
+- [overview]("/")
+- [institutions]("/institutions")
+- [mentors]("/mentors")
