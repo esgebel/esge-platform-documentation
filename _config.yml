@@ -6,3 +6,5 @@ safe: true
 source: /
 incremental: false
 theme: jekyll-theme-minimal
+include:
+ - _pages
