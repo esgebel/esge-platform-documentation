@@ -2,7 +2,7 @@
 
 Documentation for Institution Admins, Mentors and Mentees.
 
-- [overview](/)
-- [institutions](/institutions)
-- [mentors](/mentors)
-- [mentees](/mentees)
+- [overview](/esge-platform-documentation/)
+- [institutions](/esge-platform-documentation/institutions)
+- [mentors](/esge-platform-documentation/mentors)
+- [mentees](/esge-platform-documentation/mentees)
