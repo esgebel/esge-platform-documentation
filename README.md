@@ -4,9 +4,6 @@ title: ESGE Online Scoring Platform
 permalink: /
 ---
 
-Documentation for Institution Admins, Mentors and Mentees.
+![ESGE](/assets/esge_logo.webp)
 
-- [overview](/esge-platform-documentation/)
-- [institutions](/esge-platform-documentation/institutions)
-- [mentors](/esge-platform-documentation/mentors)
-- [mentees](/esge-platform-documentation/mentees)
+Documentation for Institution Admins, Mentors and Mentees.
