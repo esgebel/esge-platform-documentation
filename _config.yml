@@ -5,6 +5,6 @@ lsi: false
 safe: true
 source: /
 incremental: false
-theme: jekyll-theme-minimal
+theme: just-the-docs
 include:
  - _pages
