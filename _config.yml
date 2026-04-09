@@ -15,3 +15,5 @@ ordered_collections:
 collections:
   pages:
     output: true
+
+page_width: 800px
