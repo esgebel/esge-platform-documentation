@@ -1,4 +1,0 @@
----
-title: mentors
-slug: /mentors/
----
