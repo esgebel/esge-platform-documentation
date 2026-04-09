@@ -2,6 +2,7 @@
 title: mentees
 layout: post
 category: users
+cover: /assets/esge_logo.webp
 ---
 
 This is documentation for mentees
