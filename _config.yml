@@ -5,6 +5,6 @@ lsi: false
 safe: true
 source: /
 incremental: false
-remote_theme: remote_theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 include:
  - _pages
