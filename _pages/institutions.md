@@ -2,7 +2,7 @@
 title: institutions
 layout: post
 category: users
-cover: /assets/esge_logo.webp
+cover: /esge-platform-documentation/assets/esge-cover-notext.png
 ---
 
 This is documentation for institutions
