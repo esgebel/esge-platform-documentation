@@ -11,3 +11,7 @@ toc:
 
 ordered_collections:
   - pages
+
+collections:
+  pages:
+    output: true
