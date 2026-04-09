@@ -1,4 +1,8 @@
-# ESGE Online Scoring Platform
+---
+layout: home
+title: ESGE Online Scoring Platform
+permalink: /
+---
 
 Documentation for Institution Admins, Mentors and Mentees.
 
