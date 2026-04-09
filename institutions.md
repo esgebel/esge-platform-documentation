@@ -1,4 +1,5 @@
 ---
 title: institutions
-slug: /institutions/
+layout: post
+category: institutions
 ---
