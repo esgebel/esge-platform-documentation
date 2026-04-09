@@ -1,4 +1,5 @@
 ---
 title: mentors
-slug: /mentors/
+layout: post
+category: users
 ---
