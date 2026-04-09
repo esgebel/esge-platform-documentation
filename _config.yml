@@ -8,3 +8,6 @@ incremental: false
 remote_theme: sighingnow/jekyll-gitbook
 toc:
   enabled: true
+
+ordered_collections:
+  - pages
