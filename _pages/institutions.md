@@ -11,4 +11,4 @@ This is documentation for institutions
 
 Log in to the platform at [link](#)
 
-![image](/esge-platform-documentation/assets/esge-cover-notext.png)
+### TESTT
