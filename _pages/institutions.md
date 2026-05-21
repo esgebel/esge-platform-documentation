@@ -83,4 +83,22 @@ As an Institution Administrator you can create user accounts for your colleagues
 
 ## Next steps
 
-...
+### Manage Connection Requests
+
+As an Institution Administrator you will receive requests from mentees to be linked to your Institution. To manage such requests:
+
+1. Click **Requests** in the menu bar
+2. Review the connection request: you can see the name and email of the requests, and the request date.
+3. Click **Accept** or **Reject**
+4. In case of a rejection, the mentee will be notified and will have to create a new connection request (maybe with another Institution)
+5. In case of acceptance, the mentee will now appear as a *User*:
+6. Click **Users** in the menu bar
+7. Find the new user and click the name to view his/her detailed profile
+8. Click **Edit** to add specializations for the Mentee (this is similar to Mentor specialization)
+9. Once you selected a specialization, you can now assign a *Mentor*: this is mandatory so that the assigned mentor can add the mentee to his/her sessions
+   - Pick the Mentor from the drop-down
+10. Click **Save Changes**
+
+The mentee will now be available for the mentor to add to a new Training or Certification session (depending on the select specializations).
+
+The mentee will receive a notification "Mentor Assigned" and have access to all functions of the platform.
