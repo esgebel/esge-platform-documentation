@@ -55,4 +55,60 @@ If you try to create an account for a mentee that already exists in the system a
 3. Enter the required information:
    - First and Last name
    - Email: the user will receive an invitation at this email address
+   - Training Specializations: select one or more specializations to allow the mentee to take part in the corresponding sessions
+   - *Optional*: uncheck the box "Let the mentee complete the profile information", so that you can complete the profile information.
+4. Click **Create User** to complete the creation process. The user should now appear in the "Users Accounts" screen.
 
+> **Important**: Remember that a profile should be complete before a mentee can take part in any session 
+
+### Manage Training sessions
+
+When you have invited/created the necessary mentees you can create Training or Certification sessions. We explain here how to manage Training sessions.
+
+#### Create a new Training session
+
+1. Go to the "Training Sessions" section and click **Create Session**
+2. Enter a title for the session
+3. Enter the date when the session will take place
+4. Select a test type: this will be limited by your specializations
+5. Configure PDF report options
+6. Add participants: *mentees will receive an email to notify them they are added to a session*
+7. Click **Create Test**
+
+<img width="470" height="520" alt="image" src="https://github.com/user-attachments/assets/29266f52-7b2d-481c-b113-e77bd2d79882" />
+
+You will now see the created test
+
+<img width="470" height="278" alt="image" src="https://github.com/user-attachments/assets/0820de61-0488-4d04-a4d2-f79db290ba60" />
+
+#### Edit an existing Training session
+
+1. Go to the "Training Sessions" section and click name of the session you want to edit.
+2. In the session window, click **Edit**
+<img width="461" height="94" alt="image" src="https://github.com/user-attachments/assets/1bd57fd6-5775-4806-acd0-ddf685d1d765" />
+3. You can now change some of the attributes of the test session:
+    - The title
+    - The date
+    - The PDF report options
+    - Add/remove mentees
+  
+#### Score results of a Training session
+
+1. Go to the "Training Sessions" section and click name of the session for which you want to add results.
+2. In the session window, click **Results**
+3. Click **Add** next to the name of the mentee that you want to add results for.
+<img width="460" height="166" alt="image" src="https://github.com/user-attachments/assets/9baf636d-c4c6-42be-9d38-783167af7dc2" />
+
+4. Add the scores and click **Save** if you are done.
+6. The **Add** button will change to **Edit** when the score of a mentee is supplied. You can click **Edit** to change the score of a mentee.
+7. When you have added the score for all mentees, the **Finalize Session** button becomes available.
+8. When you click the button, a last warning will appear. Click **Yes, Finalize** to confirm.  
+
+
+<img width="451" height="122" alt="image" src="https://github.com/user-attachments/assets/155f78de-51fc-4fa6-95f7-83424c7f9a84" />
+
+> **Important**: if you finalize a session, scores can not be edited anymore!
+
+### Manage Certification sessions
+
+...
