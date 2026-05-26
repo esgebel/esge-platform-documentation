@@ -1,11 +1,11 @@
 ---
-title: institutions
+title: Institutions
 layout: post
 category: users
 cover: /esge-platform-documentation/assets/esge-cover-notext.png
 ---
 
-This is documentation for institutions.
+This is documentation for Institutions.
 
 ## Getting started
 
