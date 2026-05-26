@@ -23,7 +23,7 @@ You will be redirected to the login screen, and you can now login with your e-ma
 
 ### First Login
 
-Log in to the platform at [link](#). The first page you will see is the **Dashboard**. This gives you a birds-eye view of your institution with shortcuts to different sections of the platform.
+Log in to the platform at [link](##). The first page you will see is the **Dashboard**. This gives you a birds-eye view of your institution with shortcuts to different sections of the platform.
 
 - **Quick Actions:** shortcuts to core functions of the platform
 - **Activity overview:**  an overview of the activity (training and certification sessions) that has happened the past year.
