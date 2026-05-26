@@ -1,5 +1,5 @@
 ---
-title: mentors
+title: Mentors
 layout: post
 category: users
 cover: /esge-platform-documentation/assets/esge-cover-notext.png
