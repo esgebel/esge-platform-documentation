@@ -11,7 +11,7 @@ If you are a Mentee, you will find this and related pages most useful.
 
 ### Creating an account
 
-If it is the first time you participate in the GESEA educational programme, please go to [LINK TBC](#/register).
+If it is the first time you participate in the GESEA educational programme, please go to the [register page](https://osp.gesea.eu/register).
 
 1. Fill out your First name, Last name and email address, and choose a strong password.
 
